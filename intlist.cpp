@@ -1,6 +1,6 @@
 // intlist.cpp
 // Implements class IntList
-// Chi Xu May 2st
+// Chi Xu/ ZhiqinLei May 2st
 
 #include "intlist.h"
 
